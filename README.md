@@ -16,7 +16,7 @@ O projeto contempla:
 
 ##  Estrutura do Relatório
 
-### 🔹 Página 1: Visão Geral de Vendas
+###  Página 1: Visão Geral de Vendas
 Focada em apresentar os principais indicadores e métricas financeiras da operação:
 * *Cartões de KPI:* Totais gerais de Vendas (Sales) e Lucro (Profit).
 * *Gráfico de Vendas por Período:* Acompanhamento temporal da evolução do faturamento.
