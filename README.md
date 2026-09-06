@@ -1,4 +1,4 @@
-# 📊 Desafio de Projeto: Dashboard de Vendas com Power BI
+# Desafio de Projeto: Dashboard de Vendas com Power BI
 
 Projeto prático desenvolvido como parte do bootcamp de análise de dados na plataforma [Digital Innovation One (DIO)](https://www.dio.me/).
 
