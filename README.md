@@ -4,7 +4,7 @@ Projeto prático desenvolvido como parte do bootcamp de análise de dados na pla
 
 ---
 
-## 🎯 Objetivo do Desafio
+##  Objetivo do Desafio
 O propósito deste projeto foi replicar e expandir um relatório analítico utilizando o *Microsoft Power BI Desktop*, a partir da base de dados disponibilizada (Financial Sample.xlsx).
 
 O projeto contempla:
@@ -14,7 +14,7 @@ O projeto contempla:
 
 ---
 
-## 📑 Estrutura do Relatório
+##  Estrutura do Relatório
 
 ### 🔹 Página 1: Visão Geral de Vendas
 Focada em apresentar os principais indicadores e métricas financeiras da operação:
@@ -27,7 +27,7 @@ Focada em apresentar os principais indicadores e métricas financeiras da opera�
 
 ---
 
-### 🔹 Página 2: Detalhamento Financeiro e Lucratividade
+###  Página 2: Detalhamento Financeiro e Lucratividade
 Destinada a aprofundar a relação entre volume faturado, descontos e margem líquida:
 * *Gráfico de Lucro por Produto e Segmento:* Visão detalhada da contribuição de margem de cada produto.
 * *Gráfico de Vendas vs. Descontos:* Comparativo de sazonalidade e impacto da concessão de descontos nas vendas totais.
@@ -37,7 +37,7 @@ Destinada a aprofundar a relação entre volume faturado, descontos e margem lí
 
 ---
 
-### 🔹 Página 3: Análise Geográfica e Segmentos (Desafio Prático)
+###  Página 3: Análise Geográfica e Segmentos (Desafio Prático)
 Página criada com os visuais solicitados no desafio:
 * *Mapa 1 (Volume de Vendas e Unidades por País):*
   * Localização: Country
@@ -54,14 +54,14 @@ Página criada com os visuais solicitados no desafio:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 * *Microsoft Power BI Desktop* (Importação, modelagem e visualização de dados)
 * *Dataset:* Financial Sample.xlsx
 * *Git & GitHub* (Versionamento e documentação do projeto)
 
 ---
 
-## 🚀 Como Visualizar o Projeto
+##  Como Visualizar o Projeto
 1. Clone ou faça o download deste repositório.
 2. Certifique-se de ter o [Power BI Desktop](https://powerbi.microsoft.com/desktop/) instalado no seu computador.
 3. Abra o arquivo com a extensão .pbix localizado na pasta raiz do repositório.
